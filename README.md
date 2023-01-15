@@ -1,5 +1,9 @@
 # VMcreation
-<h1>How to create a virtual machine?</h1>
+<h1>How to create a virtual machine?
+<br/>
+<img src="https://i.imgur.com/kC9ceSW.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+</h1>
 <h2>Description</h2>
 Project consists of a creating a virtual mahine in azure. The Virtual machine allows you to run multiple OS instances on a single piece of hardware which end up saving you or a company time, management costs and physical space.
 <br />
